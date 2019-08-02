@@ -13,18 +13,18 @@ e adicionado algumas novas funcionalidades.
 - PhpMyAdmin
 - MySQL
 
-##Demonstração de Telas
+## Demonstração de Telas
 
-######Tela de Login
+###### Tela de Login
 ![](/Capturas/Login.png?raw=true "Login")
 
-######Visual da Dashboard
+###### Visual da Dashboard
 ![](/Capturas/DashboardPHP.png?raw=true "Dashboard")
 
-######Tela de cadastro de Usuarios
+###### Tela de cadastro de Usuarios
 ![](/Capturas/Cadastro.png?raw=true "Cadastro")
 
-######Tela da Lista de Usuarios
+###### Tela da Lista de Usuarios
 ![](/Capturas/Lista.png?raw=true "Lista")
 
 
